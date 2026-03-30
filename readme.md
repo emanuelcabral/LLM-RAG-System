@@ -80,8 +80,7 @@ data/
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/emanuelcabral/LLM-RAG-System.git
 ```
 
 Instalar dependencias:
@@ -137,7 +136,7 @@ Ejemplo:
 
 ```json
 {
-  "query": "¿Qué es ingresos brutos?",
+  "query": "¿Quien es el principito?",
   "result": [...]
 }
 ```
@@ -150,7 +149,7 @@ Ejemplo:
 2. Hacer una consulta como:
 
 ```
-¿Cuál es la percepción de ingresos brutos?
+¿Cuales son los personajes involucrados?
 ```
 
 👉 El sistema devuelve los fragmentos más relevantes del documento.
